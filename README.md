@@ -1,1 +1,1 @@
-# issues
+# qa - testing team
